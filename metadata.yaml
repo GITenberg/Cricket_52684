@@ -1,5 +1,5 @@
 _repo: Cricket_52684
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Gale, Frederick
@@ -29,6 +29,9 @@ contributor:
     agent_name: Davis, Lucien
     gutenberg_agent_id: '47001'
     url: http://www.gutenberg.org/2009/agents/47001
+covers:
+- cover_type: archival
+  image_path: 52684-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Steel, A. G. (Allan Gibson)
@@ -44,6 +47,8 @@ creator:
     gutenberg_agent_id: '47000'
     url: http://www.gutenberg.org/2009/agents/47000
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52684#Cricket
 gutenberg_issued: '2016-07-31'
 gutenberg_type: Text
 identifiers:

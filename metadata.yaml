@@ -1,0 +1,60 @@
+_repo: Cricket_52684
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Gale, Frederick
+    alias: Old buffer
+    birthdate: 1823
+    deathdate: 1904
+    gutenberg_agent_id: '49330'
+    url: http://www.gutenberg.org/2009/agents/49330
+  - agent_name: Grace, W. G. (William Gilbert)
+    alias: Grace, William Gilbert
+    birthdate: 1848
+    deathdate: 1915
+    gutenberg_agent_id: '46993'
+    url: http://www.gutenberg.org/2009/agents/46993
+  - agent_name: Mitchell, Richard Arthur Henry
+    birthdate: 1843
+    gutenberg_agent_id: '46978'
+    url: http://www.gutenberg.org/2009/agents/46978
+  - agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+  illustrator:
+    agent_name: Davis, Lucien
+    gutenberg_agent_id: '47001'
+    url: http://www.gutenberg.org/2009/agents/47001
+creator:
+  authors:
+  - agent_name: Steel, A. G. (Allan Gibson)
+    alias: Steel, Allan Gibson
+    birthdate: 1858
+    deathdate: 1914
+    gutenberg_agent_id: '46999'
+    url: http://www.gutenberg.org/2009/agents/46999
+  - agent_name: Lyttelton, R. H. (Robert Henry)
+    alias: Lyttelton, Robert Henry
+    birthdate: 1854
+    deathdate: 1939
+    gutenberg_agent_id: '47000'
+    url: http://www.gutenberg.org/2009/agents/47000
+description: ''
+gutenberg_issued: '2016-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52684'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Cricket'
+- GITenberg
+title: Cricket
+url: http://www.gutenberg.org/ebooks/52684
